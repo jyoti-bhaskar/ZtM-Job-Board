@@ -4939,6 +4939,21 @@ export const persons = [
       country: "India"
     }
   },
-
+{
+    id: 160,
+    name: "Jyoti Bhaskar",
+    img: "",
+    links: {
+      website: "",
+      linkedin: "https://www.linkedin.com/in/jyoti-bhaskar-23a98ab4/",
+      github: "https://github.com/jyoti-bhaskar"
+    },
+    jobTitle: "",
+    location: {
+      city: "Kitchener",
+      state: "Ontario",
+      country: "Canada"
+    }
+  },
 ];
 
